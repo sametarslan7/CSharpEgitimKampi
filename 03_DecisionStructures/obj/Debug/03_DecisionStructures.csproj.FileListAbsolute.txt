@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\CSharpEgitimKampi\03_DecisionStructures\bin\Debug\03_DecisionStructures.exe.config
+C:\Users\user\Desktop\CSharpEgitimKampi\03_DecisionStructures\bin\Debug\03_DecisionStructures.exe
+C:\Users\user\Desktop\CSharpEgitimKampi\03_DecisionStructures\bin\Debug\03_DecisionStructures.pdb
+C:\Users\user\Desktop\CSharpEgitimKampi\03_DecisionStructures\obj\Debug\03_DecisionStructures.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CSharpEgitimKampi\03_DecisionStructures\obj\Debug\03_DecisionStructures.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CSharpEgitimKampi\03_DecisionStructures\obj\Debug\03_DecisionStructures.exe
+C:\Users\user\Desktop\CSharpEgitimKampi\03_DecisionStructures\obj\Debug\03_DecisionStructures.pdb

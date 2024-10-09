@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\CSharpEgitimKampi\05_Loops_Applications\bin\Debug\05_Loops_Applications.exe.config
+C:\Users\user\Desktop\CSharpEgitimKampi\05_Loops_Applications\bin\Debug\05_Loops_Applications.exe
+C:\Users\user\Desktop\CSharpEgitimKampi\05_Loops_Applications\bin\Debug\05_Loops_Applications.pdb
+C:\Users\user\Desktop\CSharpEgitimKampi\05_Loops_Applications\obj\Debug\05_Loops_Applications.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CSharpEgitimKampi\05_Loops_Applications\obj\Debug\05_Loops_Applications.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CSharpEgitimKampi\05_Loops_Applications\obj\Debug\05_Loops_Applications.exe
+C:\Users\user\Desktop\CSharpEgitimKampi\05_Loops_Applications\obj\Debug\05_Loops_Applications.pdb

@@ -1,4 +1,5 @@
-🚀 C# EĞİTİM KAMPI PROJELERİ
+🚀 C# EĞİTİM KAMPI PROJELERİ 
+
 Bu repo , Youtube'da yer alan Murat Yücedağ'ın yürütmekte olduğu C# Eğitim Kampı serisinin ilk 8 dersini içermektedir.Genel olarak C# programlama dilinin temellerini basit ve etkili bir biçimde öğrendiğim bu eğitim kapmındaki örnekleri , kodları topladığım bu repoyu inceleyebilirsiniz.
 
 📍 Proje 1: Merhaba Dünya!

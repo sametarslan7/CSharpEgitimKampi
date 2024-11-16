@@ -27,20 +27,20 @@ namespace _01_MainSubjects
             #region StringVariables
 
 
-            //String customerName;
-            //String customerSurname;
-            //String customerPhone, customerEmail, customerDistrict, customerCity;
+            //String passengerName;
+            //String passengerSurname;
+            //String passengerPhone, passengerEmail, passengerDistrict, passengerCity;
 
-            //customerName = "Samet";
-            //customerSurname = "Arslan";
-            //customerPhone = "+90 522 412 11 11";
-            //customerEmail = "sametarslan@gmail.com";
-            //customerDistrict = "Kadıköy";
-            //customerCity = "İstanbul"; 
+            //passengerName = "Samet";
+            //passengerSurname = "Arslan";
+            //passengerPhone = "+90 522 412 11 11";
+            //passengerEmail = "sametarslan@gmail.com";
+            //passengerDistrict = "Kadıköy";
+            //passengerCity = "İstanbul"; 
 
             //Console.WriteLine("*** Rezervation Card *** \n");
             //Console.WriteLine("--------------------------------");
-            //Console.WriteLine("Customer : " + customerName + " " + customerSurname + "\nPhone : " + customerPhone + "\nE-Mail : " + customerEmail + "\nAdress : " + customerDistrict + "/" + customerCity);
+            //Console.WriteLine("passenger : " + passengerName + " " + passengerSurname + "\nPhone : " + passengerPhone + "\nE-Mail : " + passengerEmail + "\nAdress : " + passengerDistrict + "/" + passengerCity);
             //Console.WriteLine("--------------------------------");
             //Console.Read();
             #endregion

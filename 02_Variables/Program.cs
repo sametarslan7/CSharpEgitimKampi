@@ -140,7 +140,33 @@ namespace _02_Variables
             //Console.WriteLine("Your gender : " + gender);
             #endregion
 
-            Console.Read();
+
+
+
+            string isim = "sıvı yağ";
+            Console.WriteLine("Ürün ismi : " + isim);
+
+
+
+
+            char cinsiyet ='K';
+            Console.WriteLine("Kullanıcının cinsiyeti : " + cinsiyet);
+
+
+            int futbolcu_ogrenci = 10;
+            Console.WriteLine("Bu sınıftaki futbol oynayan öğrenci sayısı : " + futbolcu_ogrenci);
+
+
+
+            double elma = 1.5;
+            Console.WriteLine("Elma kg : " + elma);
+
+
+            bool laptopVarmi = false;
+            Console.WriteLine("Bu laptop stoklarımızda var mı ? : " + laptopVarmi);
+
+
+            Console.ReadLine();
         }
     }
 }

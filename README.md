@@ -27,3 +27,10 @@ Bu projede, foreach döngüsünün mantığını öğrendik ve ardından diziler
 Bu ders ile birlikte yazdığımız kodları sonradan tekrar tekrar yazmak yerine metotlar ile kullanabileceğimizi öğrendik . Bu sayede metotların çalışma mantığını da anlamış olduk.Ardından geriye değer döndüren ve döndürmeyen metotları da öğrendik.🎗️
 
 Bu projeler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı buldum. İlerleyen projelerde bu bilgileri daha da geliştireceğim!
+--------------------------------------
+CASE 3 
+
+Bu Formda Travel veritabanımızdaki tablolara göre bir istatistik sayfası oluşturmaya çalıştık.
+EntityFramework'ün Count,Max,Average gibi metotlarıyla birlikte Linq sorgularını kullanmayı öğrendik.
+
+![istatistikler_foto](https://github.com/user-attachments/assets/abfdaf00-1403-4f98-87b2-4b9fa72f6472)
